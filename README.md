@@ -1,0 +1,9 @@
+## .dockerignore
+
+.dart_tool/
+.idea/
+.vscode/
+build/
+.git/
+.gitignore
+*.md
